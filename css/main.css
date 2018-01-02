@@ -1,0 +1,21 @@
+.quicksand {
+  font-family: 'Quicksand', sans-serif;
+}
+.centralize {
+  text-align: center;
+}
+.esconder {
+  display: none;
+}
+.negrito {
+    font-weight: bold;
+}
+.alinhar {
+  display: flex;
+}
+.grey {
+  color: #212121;
+}
+.red{
+  color: #D50000;
+}
