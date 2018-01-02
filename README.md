@@ -1,19 +1,16 @@
-# atividadesPython
+# my-keys
 
 /********************************************/
   
-  Atividades referentes à disciplina de:
+  Projeto em C.R.U.D 
   
-  Programação Web - Server Side
+  Desenvolvido para o desafio TRAINEE EM TI - ACESSO 2018
 	
-  Curso de Especialização Web - IFPI - Floriano
+  Nome do candidato: Felipe Mateus Marreiros Mendes
 	
-  Professor: José Ritomar 
+  Email: mendesmateusfelipe@gmail.com
+  
+  URL do projeto: mykeys.epizy.com
 	
-  Aluno: Felipe Mateus
   
 /********************************************/
-
-Recomendo o uso da seguinte ferramenta: https://repl.it/languages/python3 para realização dos testes.
-
-Trata-se de um compilador Python Online.
