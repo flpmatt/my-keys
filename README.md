@@ -1,18 +1,20 @@
 # my-keys
 
-/********************************************/
+/**********************************************************************************/
   
   Projeto em C.R.U.D 
   
-  Desenvolvido para o desafio TRAINEE EM TI - ACESSO 2018
+  Desenvolvido para o desafio ACESSO T.I - TRAINEE 2018
+ 
+  Linguagem de programação utilizada: PHP
 	
   Nome do candidato: Felipe Mateus Marreiros Mendes
 	
   Email: mendesmateusfelipe@gmail.com
   
-  Link o Website: mykeys.epizy.com
+  Link o Website: www.mykeys.epizy.com
   
-  Plano de Ação: https://drive.google.com/open?id=1gU2IZkhDxkosz7gH5Q0iuqREEn9NPN6j
+  Plano de Ação: https://docs.google.com/spreadsheets/d/1-3YyxJRis90eoH6jQXu3lrzCW4TgniMZcIPGv7TCi34/edit?usp=sharing
 	
   
-/********************************************/
+/**********************************************************************************/
